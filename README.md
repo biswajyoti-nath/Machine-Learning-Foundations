@@ -55,4 +55,8 @@ pip install -r requirements.txt
 
 ## License
 
+<<<<<<< HEAD
 MIT
+=======
+MIT
+>>>>>>> 3867668 (Add initial README.md with project overview, objectives, structure, and dependencies)
